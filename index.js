@@ -377,7 +377,6 @@ console.log('task 9', artistByCountry(artists, 'Spanish'));
 
 /* ***** END OF TASKS ***** */
 
-console.log('hello');
 
 /* 🛑🛑🛑🛑🛑 Please do not modify anything below this line 🛑🛑🛑🛑🛑*/
 function foo() {
